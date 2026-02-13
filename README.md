@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -27,7 +26,7 @@
         /* Background class triggered after unlock */
         .birthday-bg {
             /* REPLACE 'YOUR_IMAGE_URL_HERE' with the link to the photo you uploaded */
-            background-image: url('WhatsApp Image 2026-02-13 at 3.42.32 PM.jpeg');
+            background-image: url('YOUR_IMAGE_URL_HERE');
             background-size: cover;
             background-position: center;
             background-repeat: no-repeat;
