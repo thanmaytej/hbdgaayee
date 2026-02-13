@@ -90,7 +90,7 @@
     </div>
 
     <div id="main-container">
-        <div id="ui-layer"><h1>Happy Birthday, Gayee!🎂❤️✨</h1></div>
+        <div id="ui-layer"><h1>Happy Birthday, Gayee!🎂❤️✨<h2>Happy birthday to the most prettiest girlfriend ever!!<br><h3>(catch the floating icons👀)</h3></h2></h1></div>
 
         <div id="letter-box" class="floating-box" onclick="openModal('letter-modal')">
             <div class="icon-circle">💌</div><div class="box-label">LETTER</div>
